@@ -11,7 +11,7 @@ Módulo de sensor IR (Sensor infravermelho responsável por ligar e desligar os 
 Sensor DHT - 22 (Sensor de temperatura e humidade)
 Ar-condicionado Fujitsu (Aparelho funcional capaz de regular a temperatura do ambiente, caso use outro modelo de ar-condicionado, deverá mudar o código para o modelo do ar-condicionado usado).
 
-Para esse projeto foi utilizado o software Arduino IDE para configuração do ESP32, utilizando o código do arquivo "README.md" (Obs: Caso haja erro na hora da transferência do código, tente segurar o boot na hora da transferência para o ESP32.). 
+Para esse projeto foi utilizado o software Arduino IDE para configuração do ESP32, utilizando o código do arquivo "Edificiosinteligentes" (Obs: Caso haja erro na hora da transferência do código, tente segurar o boot na hora da transferência para o ESP32.). 
 
 <h2>Conexões:</h2>
 
