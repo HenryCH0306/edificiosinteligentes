@@ -15,15 +15,15 @@ Para esse projeto foi utilizado o software Arduino IDE para configuração do ES
 
 <h2>Conexões:</h2>
 
-Módulo IR 
-VCC: 3V3
-GND: GND
-OUT: D23
+Módulo IR </br>
+VCC: 3V3</br>
+GND: GND</br>
+OUT: D23</br>
 
-Sensor DHT - 22
-VCC: 3V3
-GND: GND
-DATA: D21
+Sensor DHT - 22</br>
+VCC: 3V3</br>
+GND: GND</br>
+DATA: D21</br>
 (Obs: É extremamente recomendado o uso de uma protoboard para realização do projeto.)
 
 <h2>Interface de comunicação</h2>
